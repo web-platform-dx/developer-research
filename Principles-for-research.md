@@ -9,7 +9,7 @@ This document aims for agreement on general principles and approaches regarding 
 - Balanced number of stakeholders to avoid too much 'design by committee'
 - Create short and clear surveys, to respect developers’ survey fatigue and lack of time
 - Do research often enough, so it’s not just an annual check-in
-- Ensure it’s not to time consuming for stakeholders to create and analyze
+- Ensure it’s not too time consuming for stakeholders to create and analyze
 
 ## Benefits
 
