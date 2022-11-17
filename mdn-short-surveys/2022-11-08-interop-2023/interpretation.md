@@ -55,7 +55,13 @@ _Originally posted at https://github.com/web-platform-tests/interop/issues/245._
 
 _Originally posted at https://github.com/web-platform-tests/interop/issues/246._
 
-# Future improvements
+## Analysis
+
+A layperson look at confidence intervals / errors bars happened in [two](https://github.com/web-platform-tests/interop/issues/245#issuecomment-1311874383) and [comments](https://github.com/web-platform-tests/interop/issues/246#issuecomment-1312098410), finding CIs <4%. In order to not make too much of the exact ranking when options differ by only a few percent, the ranking was instead divided into top third, middle third and bottom third. Comments were made on proposals reporting the results, usually without offering any interpretation. ([Example](https://github.com/web-platform-tests/interop/issues/158#issuecomment-1311876330)) The top choice of each survey also stood out a fair bit from the other options, so that was pointed out for [Range syntax for media/container queries](https://github.com/web-platform-tests/interop/issues/141#issuecomment-1311829551) and [Web Components](https://github.com/web-platform-tests/interop/issues/230#issuecomment-1312116874).
+
+## Future improvements
+
+Identify best practices for how to interpret conf
 
 We originally wanted to ask developers to _rank_ up to 5 options, but reverted to checkboxes after it became clear this question type doesn't work well in a narrow layout:
 
