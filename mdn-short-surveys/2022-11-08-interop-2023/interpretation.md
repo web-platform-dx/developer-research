@@ -61,7 +61,7 @@ A layperson look at confidence intervals / errors bars happened in [two](https:/
 
 ## Future improvements
 
-Identify best practices for how to interpret conf
+Identify best practices for how to interpret confidence intervals for this question type. Is there a best practice that's more rigorous than top/middle/bottom third?
 
 We originally wanted to ask developers to _rank_ up to 5 options, but reverted to checkboxes after it became clear this question type doesn't work well in a narrow layout:
 
