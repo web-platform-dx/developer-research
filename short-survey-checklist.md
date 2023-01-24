@@ -9,7 +9,7 @@ This document lists points that need to be checked before publishing an MDN shor
 - [ ] Objective: What is the goal?
 - [ ] Justification: How is it relevant/interesting to the MDN audience?
 - [ ] Actions: Actions which will be taken based on the results
-- [ ] Audience percentage: Suggested percentage of the MDN audience to be exposed to the survey. Default is 5%, if higher a clear motivation is needed.
+- [ ] Sampling rate: Suggested percentage of the MDN audience to be exposed to the survey. Default is 5%, if higher a clear motivation is needed.
 - [ ] Questions: Suggested questions and answers
 - [ ] Other: Any other information which is relevant.
 
