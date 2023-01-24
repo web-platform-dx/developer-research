@@ -5,7 +5,7 @@ This document lists points that need to be checked before publishing an MDN shor
 # Mandatory fields
 - [ ] Topic: The topic of the survey
 - [ ] Category: E.g. CSS, JavaScript, Accessibility, documentation
-- [ ] Date: When the survey should ideally be run
+- [ ] Date: Time constraints on when the survey should be run (if any)
 - [ ] Objective: What is the goal?
 - [ ] Justification: How is it relevant/interesting to the MDN audience?
 - [ ] Actions: Actions which will be taken based on the results
