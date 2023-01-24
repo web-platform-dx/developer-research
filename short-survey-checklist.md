@@ -1,6 +1,6 @@
 # Checklist for MDN short surveys
 
-This document lists the standard operating procedure for creating MDN short surveys. 
+This document lists points that need to be checked before publishing an MDN short survey. 
 
 # Mandatory fields
 - [ ] Topic: The topic of the survey
