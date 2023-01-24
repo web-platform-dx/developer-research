@@ -18,4 +18,4 @@ This document lists the standard operating procedure for creating MDN short surv
 - [ ] Does any of the lists need to appear in random order?
 - [ ] Do any of the items in a list need to appear in a specific order?
 - [ ] Is there a free form field that needs to be excluded from random order?
-- [ ] Is there a gating question that should diqualify people from taking the survey?
+- [ ] Is there a gating question that should disqualify people from taking the survey?
