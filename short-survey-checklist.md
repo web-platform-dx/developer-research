@@ -13,7 +13,7 @@ This document lists points that need to be checked before publishing an MDN shor
 - [ ] Questions: Suggested questions and answers
 - [ ] Other: Any other information which is relevant.
 
-# Frequently requested information
+# Checking questions
 - [ ] How should the questions be presented? Multiple choice, expanded list, etc
 - [ ] Does any of the lists need to appear in random order?
 - [ ] Do any of the items in a list need to appear in a specific order?
