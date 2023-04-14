@@ -2,7 +2,7 @@
 
 ## Date
 
-Survey run between 2023-03-22 - 2022-03-31 to 5% of users site wide. See [background discussion](https://github.com/web-platform-dx/developer-research/issues/13).
+Survey run between 2023-03-28 - 2022-03-31 to 10% of users site-wide. See [background discussion](https://github.com/web-platform-dx/developer-research/issues/13).
 
 ## Questions
 
