@@ -102,7 +102,7 @@ Question 2, for only users who said their experience with Web Components was "Ha
 
 ### Variation
 
-![Variation](variation.png)
+![A box and whisker chart of the 4 options selected across features in responses to question 2](variation.png)
 
 ### Need vs. Don't Need
 
