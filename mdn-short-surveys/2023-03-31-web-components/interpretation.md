@@ -110,7 +110,7 @@ Question 2, for only users who said their experience with Web Components was "Ha
 
 ### Split by Feature
 
-![Split by Feature](split_by_item.png)
+![A percentage stacked bar chart showing the proportion of responses for each feature, among "no response", "don't know/don't care", "need this", "don't need this", separately for respondents who use Web Components, or just know about them](split_by_item.png)
 
 
 ## Analysis
