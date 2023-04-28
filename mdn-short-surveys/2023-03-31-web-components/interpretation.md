@@ -106,7 +106,7 @@ Question 2, for only users who said their experience with Web Components was "Ha
 
 ### Need vs. Don't Need
 
-![Need vs. Don't Need](need_vs_dont_need.png)
+![A scatter plot of "Need" vs. "Don't Need" across features in the responses to the second question](need_vs_dont_need.png)
 
 ### Split by Feature
 
