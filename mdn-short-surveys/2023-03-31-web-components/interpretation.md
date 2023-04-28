@@ -98,7 +98,7 @@ Question 2, for only users who said their experience with Web Components was "Ha
 
 ### Overall
 
-![Overall](overall.png)
+![A pie chart of responses to the 1st question about familiarity with Web Components](overall.png)
 
 ### Variation
 
