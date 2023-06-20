@@ -1,0 +1,298 @@
+Response ID,Date Submitted,Referer,"Understanding security threats and how they might apply to your web application","Understanding the security model of Web browsers (e.g. same-origin policy, CORS, permissions policy)","Keeping up to date the frameworks and libraries your app depends on","Integrating safely third-party services (e.g. login, payment)","Configuring the server to match the required security properties (e.g. SSL, HTTP headers)","Detecting security vulnerabilities introduced in your development workflow (e.g. cross-site scripting)",What are the other main security-related challenges you're facing when developing and deploying Web content?
+1,"May 18, 2023 6:07:40 pm",https://developer.mozilla.org/,Somewhat challenging,Easy,Neutral,Easy,Easy,Somewhat challenging,
+2,"May 18, 2023 6:27:47 pm",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Neutral,Easy,Very easy,Neutral,
+3,"May 18, 2023 6:33:32 pm",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Neutral,Very challenging,Easy,Somewhat challenging,
+4,"May 18, 2023 6:47:54 pm",https://developer.mozilla.org/,Easy,Somewhat challenging,Very challenging,Neutral,Easy,Easy,
+5,"May 18, 2023 8:16:02 pm",,Very challenging,Somewhat challenging,Neutral,Somewhat challenging,Easy,Somewhat challenging,
+6,"May 18, 2023 8:31:47 pm",https://survey.alchemer.com/s3/7348686/MDN-Web-Security-short-survey,Somewhat challenging,Easy,Somewhat challenging,Neutral,Easy,Somewhat challenging,"I don't think that there's an official or trusted source that developers can refer to when it website security comes in question. A Google search for the best website security practices provides you with a bunch of results, and each website recommends doing different types of things! It is a mess, honestly. I think MDN Web Docs should organize this to make the best and most recommended website security practices easily available and readable."
+7,"May 18, 2023 8:45:42 pm",https://developer.mozilla.org/,Somewhat challenging,Very challenging,Easy,Very challenging,Somewhat challenging,Very challenging,"I find it really hard to find general information on safe hosting. Like everybody mentions basic strategies but if most companies need cyber security professionals, what are small developers meant to do?"
+8,"May 18, 2023 8:58:01 pm",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Somewhat challenging,Somewhat challenging,Easy,Very challenging,Getting a whole team onboard with focussing on security.
+9,"May 18, 2023 9:40:05 pm",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Very challenging,Somewhat challenging,Neutral,Very challenging,
+10,"May 18, 2023 9:51:19 pm",https://developer.mozilla.org/,Somewhat challenging,Very challenging,Neutral,Easy,Very easy,Neutral,
+11,"May 18, 2023 9:53:38 pm",https://developer.mozilla.org/,Very challenging,Very challenging,Somewhat challenging,Somewhat challenging,Neutral,Somewhat challenging,The most challenging thing is to understand what attack vectors are used to compromise web based services. Understanding the types of vulnerabilities and what to do to mitigate them is challenging as there are many sources of information with questionable reputataion
+12,"May 18, 2023 11:06:47 pm",https://developer.mozilla.org/,Somewhat challenging,Neutral,Very challenging,Neutral,Easy,Somewhat challenging,
+13,"May 18, 2023 11:21:27 pm",https://survey.alchemer.com/s3/7348686/MDN-Web-Security-short-survey,Neutral,Very challenging,Very easy,Very easy,Neutral,Somewhat challenging,How to be the most autonomous as possible. Therefore use less a possible third party services.
+14,"May 18, 2023 11:59:11 pm",https://developer.mozilla.org/,Easy,Somewhat challenging,Neutral,Neutral,Very challenging,Somewhat challenging,
+15,"May 19, 2023 12:05:55 am",https://developer.mozilla.org/,Somewhat challenging,Neutral,Neutral,Neutral,Very challenging,Easy,"It would be really great to have an API so we can warn the user if the browser they use is not up-to-date (i.e. there are CVE's) - although for minor problems we can leave this to the browser, for critical applications it would be good to be able to force the user to update first."
+16,"May 19, 2023 12:12:27 am",https://developer.mozilla.org/,Somewhat challenging,Very challenging,Somewhat challenging,Neutral,Somewhat challenging,Very challenging,
+17,"May 19, 2023 12:56:31 am",https://developer.mozilla.org/,Somewhat challenging,Very easy,Neutral,Neutral,Easy,Easy,
+18,"May 19, 2023 1:07:40 am",https://developer.mozilla.org/,Easy,Easy,Very easy,Easy,Neutral,Neutral,
+19,"May 19, 2023 1:23:24 am",https://developer.mozilla.org/,Neutral,Somewhat challenging,Easy,Neutral,Easy,Somewhat challenging,
+20,"May 19, 2023 1:34:02 am",https://developer.mozilla.org/,Somewhat challenging,Very challenging,Easy,Very challenging,Very challenging,Very easy,NPM is a dumpster fire
+21,"May 19, 2023 1:42:22 am",https://developer.mozilla.org/,Neutral,Easy,Neutral,Neutral,Easy,Neutral,
+22,"May 19, 2023 1:50:44 am",https://developer.mozilla.org/,Easy,Somewhat challenging,Very easy,Easy,Very easy,Easy,
+23,"May 19, 2023 1:58:46 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Very challenging,Neutral,Somewhat challenging,Somewhat challenging,
+24,"May 19, 2023 1:59:00 am",https://developer.mozilla.org/,Easy,Neutral,Very challenging,Very challenging,Somewhat challenging,Somewhat challenging,"Minimising dependencies and complexity. The modern web is rotten to the core: PKIs, CAs, ASN1.0, dodgy elliptic curve constants, ad surveillance networks, paywalls, clickbait... We should just trash the whole thing and start from scratch.  [PII redacted - 1]"
+25,"May 19, 2023 2:22:05 am",https://developer.mozilla.org/,Somewhat challenging,Neutral,Somewhat challenging,Neutral,Neutral,Very challenging,
+26,"May 19, 2023 2:32:21 am",https://developer.mozilla.org/,Very challenging,Easy,Very challenging,Very challenging,Somewhat challenging,Neutral,
+27,"May 19, 2023 3:03:24 am",https://developer.mozilla.org/,Somewhat challenging,Neutral,Somewhat challenging,Somewhat challenging,Easy,Neutral,keeping up with all the new technology
+28,"May 19, 2023 3:09:00 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Neutral,Easy,Somewhat challenging,Easy,"Trying to implement a strict-csp header, especially when trying to be compliant with third-party scripts.  When using an allowlist CSP header I frequently need to loosen up security due to third party requiring `unsafe-eval` for example.  Relaying all security related matters in FE to my frontend team. Especially CSP / CORS still seem to be ""hard"" to understand concepts.  Firefox/Safari not supporting TrustTypes OOTB. Now requires a polyfill, which kills adoptation."
+29,"May 19, 2023 3:32:48 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Somewhat challenging,Somewhat challenging,Neutral,Very challenging,
+30,"May 19, 2023 3:57:19 am",https://developer.mozilla.org/,Very challenging,Very challenging,Easy,,Very challenging,Very challenging,Nothing
+31,"May 19, 2023 4:14:27 am",https://developer.mozilla.org/,Neutral,Somewhat challenging,Neutral,Somewhat challenging,Somewhat challenging,Neutral,
+32,"May 19, 2023 4:35:57 am",https://developer.mozilla.org/,Neutral,Somewhat challenging,Neutral,Easy,Easy,Somewhat challenging,
+33,"May 19, 2023 4:46:34 am",https://developer.mozilla.org/,Neutral,Somewhat challenging,Somewhat challenging,Easy,Neutral,Neutral,
+34,"May 19, 2023 5:04:54 am",https://developer.mozilla.org/,Somewhat challenging,Neutral,Somewhat challenging,Neutral,Neutral,Neutral,Security around file upload...
+35,"May 19, 2023 5:22:29 am",https://developer.mozilla.org/,Very challenging,Somewhat challenging,Somewhat challenging,Somewhat challenging,Very challenging,Somewhat challenging,
+36,"May 19, 2023 6:47:29 am",https://developer.mozilla.org/,Easy,Neutral,Somewhat challenging,Neutral,Somewhat challenging,Easy,
+37,"May 19, 2023 7:12:45 am",https://developer.mozilla.org/,Neutral,Very challenging,Very challenging,Very challenging,Somewhat challenging,Very challenging,
+38,"May 19, 2023 7:14:26 am",https://developer.mozilla.org/,Very challenging,Somewhat challenging,Neutral,Somewhat challenging,Neutral,Very challenging,verify users input
+39,"May 19, 2023 7:42:55 am",https://developer.mozilla.org/,Very challenging,Somewhat challenging,Very challenging,Neutral,Easy,Very challenging,
+40,"May 19, 2023 7:47:27 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Somewhat challenging,Somewhat challenging,Somewhat challenging,Very challenging,
+41,"May 19, 2023 8:15:42 am",https://developer.mozilla.org/,Somewhat challenging,Very challenging,Somewhat challenging,Very challenging,Somewhat challenging,Very challenging,
+42,"May 19, 2023 8:30:29 am",https://developer.mozilla.org/,Very challenging,Somewhat challenging,Somewhat challenging,Somewhat challenging,Easy,Very challenging,
+43,"May 19, 2023 8:39:23 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Somewhat challenging,Somewhat challenging,Neutral,Somewhat challenging,
+44,"May 19, 2023 8:47:52 am",https://developer.mozilla.org/,Neutral,Easy,Somewhat challenging,Neutral,Easy,Neutral,
+45,"May 19, 2023 9:11:17 am",https://developer.mozilla.org/,Very challenging,Very challenging,Somewhat challenging,Neutral,Somewhat challenging,Very challenging,
+46,"May 19, 2023 9:32:15 am",https://developer.mozilla.org/,Very challenging,Easy,Neutral,Easy,Neutral,Easy,
+47,"May 19, 2023 9:47:54 am",https://developer.mozilla.org/,Somewhat challenging,Neutral,Somewhat challenging,Very challenging,Somewhat challenging,Very challenging,
+48,"May 19, 2023 9:54:36 am",https://developer.mozilla.org/,Very challenging,Somewhat challenging,Neutral,Neutral,Easy,Very challenging,
+49,"May 19, 2023 9:58:36 am",https://survey.alchemer.com/s3/7348686/MDN-Web-Security-short-survey,Somewhat challenging,Neutral,Somewhat challenging,Somewhat challenging,Neutral,Somewhat challenging,Setting up an explicit sandbox for loading untrusted materials is more challenging than it seems like it should be.
+50,"May 19, 2023 10:07:24 am",https://developer.mozilla.org/,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,
+51,"May 19, 2023 10:53:42 am",https://developer.mozilla.org/,Somewhat challenging,Very challenging,Easy,Somewhat challenging,Easy,Easy,The hardest part is that you can't force clients to do anything. Any operations you want to be atomic you have to have a server for to do.
+52,"May 19, 2023 11:29:22 am",https://developer.mozilla.org/,Somewhat challenging,Neutral,Easy,Neutral,Neutral,Somewhat challenging,"There are a lot of obscure less known security threats, that are consequentialy harder to spot and fix, like the BREACH attack on compressed text/html responses. A lot of developers take compressing text/html responses for granted and do it by default."
+53,"May 19, 2023 12:11:29 pm",https://developer.mozilla.org/,Very challenging,Neutral,Very challenging,Somewhat challenging,Very challenging,Very challenging,
+54,"May 19, 2023 12:24:08 pm",https://developer.mozilla.org/,Very challenging,Easy,Easy,Very challenging,Very easy,Easy,
+55,"May 19, 2023 12:49:17 pm",https://developer.mozilla.org/,Neutral,Somewhat challenging,Easy,Very challenging,Neutral,Very easy,
+56,"May 19, 2023 1:05:43 pm",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Very challenging,Somewhat challenging,Somewhat challenging,Somewhat challenging,End-users
+57,"May 19, 2023 1:27:23 pm",https://developer.mozilla.org/,Neutral,Neutral,Very challenging,Somewhat challenging,Very easy,Somewhat challenging,
+58,"May 19, 2023 2:07:31 pm",https://developer.mozilla.org/,Very challenging,Somewhat challenging,Neutral,Somewhat challenging,Somewhat challenging,Very challenging,"Not able to use a standard API, like sanitizer, yet. This should be an integral part of the open web. :)"
+59,"May 19, 2023 2:11:32 pm",https://developer.mozilla.org/,Neutral,Neutral,Easy,Easy,Very easy,Neutral,
+60,"May 19, 2023 3:12:20 pm",https://developer.mozilla.org/,Easy,Easy,Easy,Easy,Easy,Easy,[noise redacted  - 1]
+61,"May 19, 2023 3:23:56 pm",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Easy,Neutral,Somewhat challenging,Neutral,
+62,"May 19, 2023 6:35:44 pm",https://developer.mozilla.org/,Somewhat challenging,Very challenging,Somewhat challenging,Somewhat challenging,Very challenging,Very challenging,
+63,"May 19, 2023 6:58:43 pm",https://developer.mozilla.org/,Very challenging,Neutral,Somewhat challenging,Neutral,Somewhat challenging,Somewhat challenging,
+64,"May 19, 2023 8:34:06 pm",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Somewhat challenging,Somewhat challenging,Somewhat challenging,Somewhat challenging,
+65,"May 19, 2023 9:02:40 pm",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Neutral,,Neutral,Neutral,
+66,"May 19, 2023 9:32:57 pm",https://developer.mozilla.org/,Neutral,Easy,Somewhat challenging,Very challenging,Easy,Neutral,Maintaining security while also maintaining back-compatibility
+67,"May 19, 2023 9:38:18 pm",https://developer.mozilla.org/,Neutral,Somewhat challenging,Somewhat challenging,Somewhat challenging,Neutral,Very challenging,
+68,"May 19, 2023 10:24:45 pm",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Very easy,Neutral,Neutral,Very challenging,"Education; very little cybersecurity content in my computer science bachelor's degree, don't see security talked about much on the web"
+69,"May 19, 2023 11:01:21 pm",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Very challenging,Very challenging,Somewhat challenging,Very challenging,
+70,"May 20, 2023 12:01:58 am",https://developer.mozilla.org/,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,i want open its apps 
+71,"May 20, 2023 1:23:10 am",https://developer.mozilla.org/,Somewhat challenging,Neutral,Very challenging,Very challenging,Very challenging,Very challenging,
+72,"May 20, 2023 2:24:58 am",https://developer.mozilla.org/,Very challenging,Very challenging,Neutral,Somewhat challenging,Somewhat challenging,Neutral,
+73,"May 20, 2023 2:40:25 am",https://developer.mozilla.org/,Very challenging,Neutral,Somewhat challenging,Very easy,Very easy,Very challenging,
+74,"May 20, 2023 3:24:13 am",https://developer.mozilla.org/,Neutral,Neutral,Easy,Neutral,Easy,Easy,
+75,"May 20, 2023 3:50:00 am",https://developer.mozilla.org/,Somewhat challenging,Neutral,Neutral,Somewhat challenging,Easy,Very challenging,
+76,"May 20, 2023 5:53:08 am",https://developer.mozilla.org/,Neutral,Somewhat challenging,Very challenging,Somewhat challenging,Very easy,Somewhat challenging,
+77,"May 20, 2023 7:04:28 am",https://developer.mozilla.org/,Neutral,Very challenging,Very challenging,Very challenging,Easy,Very challenging,
+78,"May 20, 2023 7:09:24 am",https://developer.mozilla.org/,Somewhat challenging,Very challenging,Very challenging,Very challenging,Very challenging,Somewhat challenging,
+79,"May 20, 2023 7:17:26 am",https://developer.mozilla.org/,Neutral,Neutral,Neutral,Easy,Easy,Somewhat challenging,
+80,"May 20, 2023 7:32:06 am",https://developer.mozilla.org/,Somewhat challenging,Very challenging,Neutral,Neutral,Somewhat challenging,Somewhat challenging,
+81,"May 20, 2023 7:53:07 am",https://developer.mozilla.org/,Somewhat challenging,Neutral,Easy,Neutral,Easy,Somewhat challenging,
+82,"May 20, 2023 8:23:25 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Somewhat challenging,Very challenging,Very challenging,Very challenging,
+83,"May 20, 2023 8:53:32 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Neutral,Somewhat challenging,Neutral,Somewhat challenging,
+84,"May 20, 2023 9:11:55 am",https://developer.mozilla.org/,Neutral,Neutral,Very challenging,Somewhat challenging,Easy,Very challenging,
+85,"May 20, 2023 9:31:46 am",https://developer.mozilla.org/,Very challenging,Very challenging,Very challenging,Very challenging,,Very challenging,
+86,"May 20, 2023 9:39:44 am",https://developer.mozilla.org/,Very challenging,Somewhat challenging,Somewhat challenging,Somewhat challenging,Neutral,Very challenging,
+87,"May 20, 2023 9:57:44 am",https://developer.mozilla.org/,Somewhat challenging,Neutral,Somewhat challenging,Somewhat challenging,Neutral,Neutral,Awareness
+88,"May 20, 2023 12:39:14 pm",https://developer.mozilla.org/,Neutral,Somewhat challenging,Very challenging,Neutral,Neutral,Somewhat challenging,
+89,"May 20, 2023 1:52:37 pm",https://developer.mozilla.org/,Easy,Neutral,Easy,Somewhat challenging,Easy,Very challenging,
+90,"May 20, 2023 2:14:07 pm",https://developer.mozilla.org/,Somewhat challenging,Very challenging,Very challenging,Very challenging,Very easy,Somewhat challenging,[noise redacted -  2]
+91,"May 20, 2023 2:25:36 pm",https://developer.mozilla.org/,Somewhat challenging,Very challenging,Easy,Neutral,Very easy,Very easy,
+92,"May 20, 2023 2:51:42 pm",https://developer.mozilla.org/,Very challenging,Very challenging,Somewhat challenging,Neutral,Neutral,Neutral,Honestly I'm just trying to make our home network safer
+93,"May 20, 2023 3:14:53 pm",https://developer.mozilla.org/,Very challenging,Somewhat challenging,Very challenging,Somewhat challenging,Somewhat challenging,Very challenging,security using websockets 
+94,"May 20, 2023 4:25:32 pm",https://developer.mozilla.org/,Neutral,Easy,Easy,Neutral,Very challenging,Very challenging,
+95,"May 20, 2023 4:36:27 pm",https://developer.mozilla.org/,Very challenging,Neutral,Very challenging,Very challenging,Neutral,Very challenging,
+96,"May 20, 2023 6:21:53 pm",https://developer.mozilla.org/,Somewhat challenging,Easy,Neutral,Somewhat challenging,Very easy,Very challenging,
+97,"May 20, 2023 7:12:27 pm",https://developer.mozilla.org/,Very challenging,Very challenging,Very challenging,Somewhat challenging,Very challenging,Very challenging,State actors and orchestrated cyber crime
+98,"May 20, 2023 10:01:09 pm",https://developer.mozilla.org/,Very challenging,Very challenging,Very challenging,Very challenging,Neutral,Neutral,Allowed my device to work perfect no block site. 
+99,"May 20, 2023 10:01:56 pm",https://developer.mozilla.org/,Neutral,Neutral,Neutral,Neutral,Somewhat challenging,Neutral,Thank you so 
+100,"May 20, 2023 10:22:52 pm",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Easy,Somewhat challenging,Very easy,Very challenging,
+101,"May 20, 2023 10:46:46 pm",https://survey.alchemer.com/s3/7348686/MDN-Web-Security-short-survey,Somewhat challenging,Somewhat challenging,Easy,Somewhat challenging,Somewhat challenging,Very challenging,"I'd like to see, a tool that can give semantic hints for correctly implementing lower level protocols, and pointing out known security vulnerabilities."
+102,"May 20, 2023 10:55:53 pm",https://developer.mozilla.org/en-US/docs/Web/API/SubtleCrypto/digest,Somewhat challenging,Neutral,Easy,Somewhat challenging,Somewhat challenging,Somewhat challenging,
+103,"May 20, 2023 11:06:08 pm",https://developer.mozilla.org/,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,
+104,"May 21, 2023 12:01:34 am",https://developer.mozilla.org/,Very challenging,Neutral,Somewhat challenging,Somewhat challenging,Somewhat challenging,Very challenging,
+105,"May 21, 2023 1:39:54 am",https://developer.mozilla.org/,Somewhat challenging,Very challenging,Somewhat challenging,,Neutral,Very challenging,implementing authentication by avoiding risks of making mistakes
+106,"May 21, 2023 3:23:25 am",https://developer.mozilla.org/,Somewhat challenging,Very challenging,Easy,Somewhat challenging,Somewhat challenging,Very challenging,
+107,"May 21, 2023 3:39:41 am",https://developer.mozilla.org/,Very challenging,,Neutral,Somewhat challenging,Somewhat challenging,Neutral,[noise redacted – 3]
+108,"May 21, 2023 5:18:04 am",https://developer.mozilla.org/,Easy,Easy,Easy,Neutral,Easy,Easy,
+109,"May 21, 2023 5:25:32 am",https://developer.mozilla.org/,Somewhat challenging,Neutral,,,,,
+110,"May 21, 2023 6:43:30 am",https://developer.mozilla.org/,Very challenging,Very challenging,Very challenging,Neutral,Neutral,Very easy,[PII redacted – 2]
+111,"May 21, 2023 7:14:59 am",https://developer.mozilla.org/,Somewhat challenging,Neutral,Very challenging,Somewhat challenging,Very easy,Neutral,
+112,"May 21, 2023 7:18:58 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Somewhat challenging,Very challenging,Very challenging,Very challenging,
+113,"May 21, 2023 8:36:50 am",https://developer.mozilla.org/,,,,,,,
+114,"May 21, 2023 8:42:23 am",https://developer.mozilla.org/,Neutral,Somewhat challenging,Neutral,Easy,Very easy,Easy,
+115,"May 21, 2023 9:31:17 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Very challenging,Somewhat challenging,Somewhat challenging,Somewhat challenging,"Recently discovered it is possible for the user to drag-and-drop entire home/profile directories into the browser, giving the page access to all contained files without an extra prompt. Crazy!"
+116,"May 21, 2023 9:31:21 am",https://developer.mozilla.org/,Very easy,Easy,Very easy,Easy,Easy,Very easy,
+117,"May 21, 2023 9:38:25 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Easy,Easy,Neutral,Somewhat challenging,It is difficult to secure an application when there are many vulnerabilities: XXE. XXS. JSOBF SQLI ...
+118,"May 21, 2023 10:24:18 am",https://survey.alchemer.com/s3/7348686/MDN-Web-Security-short-survey,Somewhat challenging,Very challenging,Easy,Neutral,Neutral,Somewhat challenging,"Full stack reference design that is GDPR compliant, and compliant with regional regulations. It's more about architecture than specific web features. References from Mozilla on this would be fantastic. We could then point regulators to those references, and with time they would start understanding exactly what is and isn't catered for in those designs, and how each element maps to the framework they are evaluating."
+119,"May 21, 2023 10:37:56 am",https://developer.mozilla.org/,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,Ok 
+120,"May 21, 2023 10:38:52 am",https://developer.mozilla.org/,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Ok 
+121,"May 21, 2023 10:47:26 am",https://developer.mozilla.org/,Very challenging,Neutral,Somewhat challenging,Neutral,Neutral,Somewhat challenging,
+122,"May 21, 2023 12:03:31 pm",https://developer.mozilla.org/,Very challenging,Somewhat challenging,Very challenging,Very challenging,Very challenging,Very challenging,too many different ways to solve myriad of problems. why don't the gatekeepers (browser/engine vendors) build the protections themselves instead of relying on (poorly skilled) programmers like me? 
+123,"May 21, 2023 12:21:13 pm",https://developer.mozilla.org/,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,
+124,"May 21, 2023 2:12:20 pm",https://developer.mozilla.org/,Somewhat challenging,Very challenging,Neutral,Very challenging,Very challenging,Very challenging,
+125,"May 21, 2023 3:14:12 pm",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Neutral,Very challenging,Easy,Somewhat challenging,
+126,"May 21, 2023 3:24:22 pm",https://developer.mozilla.org/,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,
+127,"May 21, 2023 4:58:11 pm",https://developer.mozilla.org/,Somewhat challenging,Easy,Very challenging,Very challenging,Neutral,Easy,
+128,"May 21, 2023 5:14:53 pm",https://developer.mozilla.org/,Very challenging,Neutral,Very easy,Very challenging,Neutral,Very challenging,Ensuring the rest of the team understands and is able to identify security risks.
+129,"May 21, 2023 5:34:42 pm",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Neutral,Neutral,Somewhat challenging,Very challenging,
+130,"May 21, 2023 8:25:43 pm",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Somewhat challenging,Somewhat challenging,Somewhat challenging,Somewhat challenging,Different browser behavior for service worker. 
+131,"May 21, 2023 10:05:01 pm",https://developer.mozilla.org/,Neutral,Somewhat challenging,Very challenging,Somewhat challenging,Very challenging,Very challenging,Other engineers less knowledgeable in this space than I
+132,"May 21, 2023 10:07:56 pm",https://developer.mozilla.org/,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,
+133,"May 21, 2023 10:54:01 pm",https://developer.mozilla.org/,Easy,Easy,Easy,Easy,Easy,Easy,
+134,"May 21, 2023 10:58:28 pm",https://developer.mozilla.org/,Very challenging,Somewhat challenging,Somewhat challenging,Very challenging,Somewhat challenging,Very challenging,
+135,"May 21, 2023 11:47:04 pm",https://developer.mozilla.org/,Somewhat challenging,Neutral,Somewhat challenging,Neutral,Neutral,Somewhat challenging,
+136,"May 21, 2023 11:54:06 pm",https://developer.mozilla.org/,Easy,Easy,Somewhat challenging,Neutral,Very challenging,Very challenging,
+137,"May 21, 2023 11:57:11 pm",https://developer.mozilla.org/,Somewhat challenging,Easy,Easy,Neutral,Very easy,Neutral,
+138,"May 22, 2023 12:03:23 am",https://developer.mozilla.org/,Easy,Neutral,Neutral,Very challenging,Very challenging,Easy,
+139,"May 22, 2023 12:06:43 am",https://developer.mozilla.org/,Easy,Neutral,Very challenging,Somewhat challenging,Somewhat challenging,Very challenging,"Security issues always arise all of a sudden, and we often don't have time for taking actions immediately."
+140,"May 22, 2023 12:34:48 am",https://developer.mozilla.org/,Very challenging,Somewhat challenging,Neutral,Neutral,Somewhat challenging,Somewhat challenging,
+141,"May 22, 2023 12:39:14 am",https://developer.mozilla.org/,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,
+142,"May 22, 2023 12:57:37 am",https://developer.mozilla.org/,Neutral,Somewhat challenging,Somewhat challenging,Neutral,Easy,Easy,
+143,"May 22, 2023 1:13:45 am",https://developer.mozilla.org/,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,
+144,"May 22, 2023 1:17:42 am",https://developer.mozilla.org/,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,I am looking forward to it
+145,"May 22, 2023 1:20:53 am",https://developer.mozilla.org/,Somewhat challenging,Easy,Very challenging,Somewhat challenging,Neutral,Somewhat challenging,Debugging Content Security Policy is pretty hard and browser do not handle it the same way
+146,"May 22, 2023 1:22:51 am",https://developer.mozilla.org/,Neutral,Somewhat challenging,Very easy,Easy,Neutral,Neutral,
+147,"May 22, 2023 1:54:19 am",https://developer.mozilla.org/,Somewhat challenging,Very challenging,Neutral,Somewhat challenging,Neutral,Very challenging,supply chain management; especially when it comes to CSP (best-practice) compliancy; insecure object (de-) serialisation implementations; auto-binding overposting.
+148,"May 22, 2023 1:55:53 am",https://developer.mozilla.org/,Very challenging,Very challenging,Neutral,Neutral,Easy,Very challenging,
+149,"May 22, 2023 2:39:55 am",https://developer.mozilla.org/,Somewhat challenging,Neutral,Easy,Neutral,Somewhat challenging,Somewhat challenging,
+150,"May 22, 2023 2:58:47 am",https://developer.mozilla.org/,Easy,Very challenging,Very challenging,Very challenging,Easy,Very challenging,
+151,"May 22, 2023 3:07:18 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Neutral,Neutral,Very challenging,Very challenging,
+152,"May 22, 2023 4:38:24 am",https://developer.mozilla.org/,Neutral,Somewhat challenging,Somewhat challenging,Neutral,Very easy,Somewhat challenging,Keeping up with new standards while still being backwards compatible with sometimes even 10+ year old devices.
+153,"May 22, 2023 4:43:12 am",https://developer.mozilla.org/,Neutral,Somewhat challenging,Easy,Very challenging,Neutral,Very challenging,
+154,"May 22, 2023 4:52:44 am",https://developer.mozilla.org/,Somewhat challenging,Very challenging,Somewhat challenging,Easy,Very easy,Very challenging,"Different types of attacks how they can be prevented in my application, best practices and tips"
+155,"May 22, 2023 4:55:09 am",https://developer.mozilla.org/,Easy,Somewhat challenging,Neutral,Easy,Very easy,Neutral,
+156,"May 22, 2023 5:00:57 am",https://developer.mozilla.org/,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,
+157,"May 22, 2023 5:09:10 am",https://developer.mozilla.org/,Very challenging,Very challenging,Very challenging,Somewhat challenging,Easy,Very challenging,[PII redacted – 3]
+158,"May 22, 2023 5:27:37 am",https://developer.mozilla.org/,Somewhat challenging,Neutral,Somewhat challenging,Somewhat challenging,Neutral,Neutral,
+159,"May 22, 2023 5:31:43 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Easy,Easy,Neutral,Somewhat challenging,
+160,"May 22, 2023 5:34:02 am",https://survey.alchemer.com/s3/7348686/MDN-Web-Security-short-survey,Very challenging,Neutral,Somewhat challenging,Somewhat challenging,Very challenging,,
+161,"May 22, 2023 5:47:01 am",https://developer.mozilla.org/,Somewhat challenging,Neutral,Very challenging,Easy,Very easy,Somewhat challenging,
+162,"May 22, 2023 6:07:04 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Very challenging,Somewhat challenging,Neutral,Somewhat challenging,
+163,"May 22, 2023 6:07:15 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Easy,Somewhat challenging,Somewhat challenging,Neutral,Understanding what is the recommended fix for the discovered security issues.
+164,"May 22, 2023 6:16:02 am",https://developer.mozilla.org/,Somewhat challenging,Easy,Very easy,Neutral,Very easy,Somewhat challenging,
+165,"May 22, 2023 6:38:00 am",https://developer.mozilla.org/,Neutral,Easy,Somewhat challenging,Easy,Very easy,Easy,
+166,"May 22, 2023 7:03:15 am",https://developer.mozilla.org/,Somewhat challenging,Easy,Somewhat challenging,Neutral,Very easy,Very challenging,
+167,"May 22, 2023 7:29:41 am",https://developer.mozilla.org/,Neutral,Very challenging,Easy,Easy,Somewhat challenging,Somewhat challenging,Sanitization of arbitrary input and web requests on proprietairy platforms
+168,"May 22, 2023 7:53:29 am",https://developer.mozilla.org/,Somewhat challenging,Neutral,Neutral,Neutral,Very easy,Somewhat challenging,Understanding the security implications of third party libraries. For example: JWT authentication bypass via algorithm confusion caused by an improperly configured JWT server library.
+169,"May 22, 2023 8:07:43 am",https://developer.mozilla.org/,Very challenging,Very challenging,Somewhat challenging,Somewhat challenging,Somewhat challenging,Very challenging,"firewall, ecription, communications"
+170,"May 22, 2023 8:42:10 am",https://developer.mozilla.org/,Neutral,Easy,Neutral,Easy,Very easy,Somewhat challenging,
+171,"May 22, 2023 8:57:50 am",https://developer.mozilla.org/,Somewhat challenging,Very challenging,Somewhat challenging,Easy,Easy,Somewhat challenging,
+172,"May 22, 2023 9:16:26 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Somewhat challenging,Very challenging,Very challenging,Somewhat challenging,avoiding security issues on local non-internet networks
+173,"May 22, 2023 9:28:31 am",https://developer.mozilla.org/,Neutral,Somewhat challenging,Somewhat challenging,Very challenging,Somewhat challenging,Neutral,I try to depend only on my own code. Keeping up with just everything is impossible. The biggest problem is keeping up with new threats and possibilities to do something nasty...
+174,"May 22, 2023 9:28:46 am",https://developer.mozilla.org/,,Very challenging,Somewhat challenging,Very challenging,Very challenging,Very challenging,you're facing when developing and deploying Web content?
+175,"May 22, 2023 9:35:33 am",https://developer.mozilla.org/,Very challenging,Somewhat challenging,Very challenging,Very challenging,Easy,Neutral,"everything that is unexpected like  - implementing a static http server from scratch probably has a path traversal vulnerability - When CSP is implemented, it doesn't apply to webworkers at all (need to know that) - even JSON.parse can be dangerous with prototype pollution - ??? something else I don't even know is probably also dangerous"
+176,"May 22, 2023 9:44:32 am",https://developer.mozilla.org/,Very challenging,Very challenging,Very easy,,Very challenging,,
+177,"May 22, 2023 10:17:47 am",https://developer.mozilla.org/,Easy,,Easy,Easy,Easy,Easy,
+178,"May 22, 2023 11:23:51 am",https://developer.mozilla.org/,Very challenging,Very challenging,Somewhat challenging,Somewhat challenging,Somewhat challenging,Somewhat challenging,
+179,"May 22, 2023 11:44:58 am",https://developer.mozilla.org/,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,[PII redacted – 4]
+180,"May 22, 2023 11:51:19 am",https://developer.mozilla.org/,Very challenging,Very challenging,Somewhat challenging,Somewhat challenging,Somewhat challenging,Very challenging,
+181,"May 22, 2023 12:46:57 pm",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Easy,Neutral,Neutral,Somewhat challenging,
+182,"May 22, 2023 1:11:26 pm",https://developer.mozilla.org/,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,security has always been an after-thought in our SDLC so far. I wish and hope we would soon start taking security aspects seriously and plan for securing the apps and products we deliver from the get-go. thank you! this survey made me realize how weak I am
+183,"May 22, 2023 1:12:54 pm",https://developer.mozilla.org/,Very challenging,Somewhat challenging,Somewhat challenging,Neutral,Easy,Somewhat challenging,
+184,"May 22, 2023 1:13:27 pm",https://developer.mozilla.org/,Somewhat challenging,Very challenging,Very challenging,Somewhat challenging,Somewhat challenging,Somewhat challenging,
+185,"May 22, 2023 1:32:54 pm",https://developer.mozilla.org/,Somewhat challenging,Easy,Neutral,Somewhat challenging,Very challenging,Very challenging,
+186,"May 22, 2023 1:41:22 pm",https://developer.mozilla.org/,Neutral,Somewhat challenging,Somewhat challenging,Somewhat challenging,Very challenging,Somewhat challenging,
+187,"May 22, 2023 3:09:02 pm",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Neutral,Neutral,Somewhat challenging,Somewhat challenging,
+188,"May 22, 2023 3:30:59 pm",https://developer.mozilla.org/,Very challenging,Neutral,Neutral,Neutral,Neutral,Neutral,
+189,"May 22, 2023 4:29:55 pm",https://developer.mozilla.org/,Very challenging,Very challenging,Somewhat challenging,Neutral,Very challenging,Very challenging,
+190,"May 22, 2023 4:50:12 pm",https://developer.mozilla.org/,Very challenging,Very challenging,Very easy,Somewhat challenging,Very challenging,Very challenging,
+191,"May 22, 2023 6:01:05 pm",https://developer.mozilla.org/,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,Current wanted to change email address
+192,"May 22, 2023 6:01:51 pm",https://developer.mozilla.org/,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,Logging in
+193,"May 22, 2023 6:02:34 pm",https://developer.mozilla.org/,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,None
+194,"May 22, 2023 7:11:27 pm",https://developer.mozilla.org/,Neutral,Somewhat challenging,Neutral,Very challenging,Somewhat challenging,Somewhat challenging,.
+195,"May 22, 2023 10:27:21 pm",https://developer.mozilla.org/,Very easy,Very easy,Very easy,Very easy,Very easy,Very easy,
+196,"May 22, 2023 10:35:55 pm",https://developer.mozilla.org/,Neutral,Easy,Somewhat challenging,Neutral,Neutral,Somewhat challenging,
+197,"May 22, 2023 11:29:45 pm",https://developer.mozilla.org/,Neutral,Somewhat challenging,Neutral,Neutral,Somewhat challenging,Somewhat challenging,"Lack of documentation on how browsers handle/verify server and especially client certificates. Which fields are allowed/used in a certificate, how?   How to tell a browser to use a CA cert only to validate certs for a specific domain?  How to import a client cert in Firefox on Android?"
+198,"May 22, 2023 11:40:37 pm",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Neutral,Very challenging,Somewhat challenging,Very challenging,
+199,"May 23, 2023 1:04:27 am",https://developer.mozilla.org/,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,
+200,"May 23, 2023 2:33:41 am",https://developer.mozilla.org/,Neutral,Somewhat challenging,Neutral,Neutral,Easy,Somewhat challenging,
+201,"May 23, 2023 2:38:39 am",https://developer.mozilla.org/,Easy,Somewhat challenging,Somewhat challenging,Somewhat challenging,Somewhat challenging,Easy,The absolutely stupid standard that on change event is dependent on the input value. wich makes it exceptionally hard to not expose autofilled passwords in the dom. it should be harder to access an autofilled password than to change the inputtype to text 
+202,"May 23, 2023 3:40:37 am",https://developer.mozilla.org/,Neutral,Somewhat challenging,Very challenging,Somewhat challenging,Neutral,Somewhat challenging,Post-attack processing: such as passive defense and attack source tracing
+203,"May 23, 2023 4:11:23 am",https://developer.mozilla.org/,Somewhat challenging,Neutral,Neutral,,,Neutral,
+204,"May 23, 2023 4:43:57 am",https://developer.mozilla.org/,Easy,Very challenging,Neutral,Somewhat challenging,Somewhat challenging,Somewhat challenging,
+205,"May 23, 2023 5:19:31 am",https://developer.mozilla.org/,Somewhat challenging,Neutral,Somewhat challenging,Somewhat challenging,Somewhat challenging,Very challenging,
+206,"May 23, 2023 5:24:02 am",https://developer.mozilla.org/,Very challenging,Very challenging,Somewhat challenging,Very challenging,Very challenging,Very challenging,
+207,"May 23, 2023 6:31:35 am",https://developer.mozilla.org/,Very easy,Very easy,Somewhat challenging,Neutral,Very easy,Very easy,Mainly poorly written Wordpress code.  The CMS makes it so easy to make mistakes that junior developers have no chance whatsoever in writing secure code.
+208,"May 23, 2023 7:12:24 am",https://developer.mozilla.org/,Neutral,Somewhat challenging,Somewhat challenging,Very challenging,Very challenging,Somewhat challenging,manipulated request
+209,"May 23, 2023 7:33:46 am",https://developer.mozilla.org/,Very challenging,Very challenging,Somewhat challenging,Somewhat challenging,Very challenging,Very challenging,
+210,"May 23, 2023 7:55:11 am",https://developer.mozilla.org/,Easy,Somewhat challenging,Somewhat challenging,Neutral,Neutral,Somewhat challenging,
+211,"May 23, 2023 8:30:00 am",https://developer.mozilla.org/,Somewhat challenging,Very challenging,Somewhat challenging,Somewhat challenging,Easy,Somewhat challenging,
+212,"May 23, 2023 8:32:20 am",https://developer.mozilla.org/,Somewhat challenging,Very challenging,Very challenging,Somewhat challenging,,,
+213,"May 23, 2023 10:00:54 am",https://developer.mozilla.org/,Neutral,Easy,,Neutral,Easy,Easy,
+214,"May 23, 2023 11:50:57 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Neutral,,Neutral,Very challenging,
+215,"May 23, 2023 12:27:58 pm",https://developer.mozilla.org/,Neutral,Easy,Neutral,Somewhat challenging,Easy,Neutral,
+216,"May 23, 2023 12:42:04 pm",https://developer.mozilla.org/,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,
+217,"May 23, 2023 1:40:51 pm",https://developer.mozilla.org/,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,It is hard to find web security requirements and best practices.
+218,"May 23, 2023 2:14:08 pm",https://developer.mozilla.org/,Very challenging,Somewhat challenging,Very challenging,Very challenging,Somewhat challenging,Very challenging,
+219,"May 23, 2023 3:07:25 pm",https://developer.mozilla.org/,Somewhat challenging,Easy,Easy,Neutral,Easy,Somewhat challenging,"Trusting that 3rd party code is secure and taking the time to audit that code, some of which is quite complex."
+220,"May 23, 2023 3:29:59 pm",https://survey.alchemer.com/s3/7348686/MDN-Web-Security-short-survey,Very easy,Very challenging,Easy,Very easy,Very easy,Very challenging,"Getting CORS to work, without beeing too tempted to just disable them completly due to the amount of problems they cause to my apps. It feels like they trouble more than they help."
+221,"May 23, 2023 5:26:28 pm",https://developer.mozilla.org/,Somewhat challenging,Very challenging,Easy,Neutral,Somewhat challenging,Very easy,
+222,"May 23, 2023 8:26:20 pm",https://developer.mozilla.org/,Very challenging,Somewhat challenging,Very challenging,Somewhat challenging,Neutral,Very challenging,Exploit of server vulnerabilities. Prevent of denial of service as well as attacks that generate excessive cloud costs.
+223,"May 23, 2023 8:45:23 pm",https://developer.mozilla.org/,Very challenging,Somewhat challenging,Neutral,Neutral,Somewhat challenging,Very challenging,
+224,"May 23, 2023 9:25:59 pm",https://developer.mozilla.org/,Somewhat challenging,Neutral,Easy,Neutral,Neutral,Very challenging,
+225,"May 23, 2023 10:00:03 pm",https://developer.mozilla.org/,,,,,,,[noise redacted – 4]
+226,"May 23, 2023 10:03:29 pm",https://developer.mozilla.org/,Very easy,Very easy,Very challenging,Easy,Very easy,Easy,Lack of time and inexperienced developers.
+227,"May 23, 2023 10:10:44 pm",https://developer.mozilla.org/,Easy,Neutral,Somewhat challenging,Neutral,Very easy,Somewhat challenging,"I was running into CSP problems in a Chrome Extension a while ago, I fixed it and it works now, but it was very hard to get it working."
+228,"May 23, 2023 10:35:06 pm",https://developer.mozilla.org/,Easy,Somewhat challenging,Somewhat challenging,Somewhat challenging,Very easy,Somewhat challenging,
+229,"May 23, 2023 10:56:21 pm",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Very challenging,Somewhat challenging,Very easy,Very challenging,
+230,"May 23, 2023 11:21:53 pm",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Very challenging,Somewhat challenging,Somewhat challenging,Very challenging,
+231,"May 24, 2023 12:23:08 am",https://developer.mozilla.org/,Somewhat challenging,Neutral,Very challenging,Somewhat challenging,Somewhat challenging,Easy,
+232,"May 24, 2023 12:49:25 am",https://developer.mozilla.org/,Somewhat challenging,Very challenging,Neutral,Very challenging,Neutral,Very challenging,"Mostly implementing authentication flows in modern webapps is very challenging as there are not always enough options or libraries for some frameworks and making your own auth flow from scratch is even worse as you'll need the knowledge to make it secure enough and it goes way beyond simply hashing a password. I have to admit eventho it's just clientside, browsers do simplify security by alot yet still really making it secure. Honesty there's no best way, but repeating simple steps to eliminate common security threats and then improving them with your own code does make it alot better."
+233,"May 24, 2023 12:51:14 am",https://developer.mozilla.org/,Neutral,Somewhat challenging,Very challenging,Easy,Easy,Easy,Lack of standardization of default security options in cloud services even from the same cloud provider
+234,"May 24, 2023 1:07:10 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Neutral,Very challenging,Somewhat challenging,Somewhat challenging,
+235,"May 24, 2023 1:40:10 am",https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_templates_and_slots,Neutral,Somewhat challenging,Somewhat challenging,Somewhat challenging,Easy,Easy,
+236,"May 24, 2023 1:45:04 am",https://developer.mozilla.org/,Neutral,Somewhat challenging,Somewhat challenging,Very challenging,Very challenging,Somewhat challenging,"Non interoperability, security wise, between 3rd party  APIs"
+237,"May 24, 2023 1:59:37 am",https://developer.mozilla.org/,Easy,Somewhat challenging,Somewhat challenging,Neutral,Somewhat challenging,Somewhat challenging,
+238,"May 24, 2023 2:34:05 am",https://survey.alchemer.com/s3/7348686/MDN-Web-Security-short-survey,Neutral,Somewhat challenging,Very challenging,Somewhat challenging,Easy,Somewhat challenging,
+239,"May 24, 2023 2:34:41 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Easy,Neutral,Neutral,Somewhat challenging,
+240,"May 24, 2023 2:35:06 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Easy,Easy,Easy,Easy,
+241,"May 24, 2023 2:49:44 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Neutral,Neutral,Neutral,Very challenging,"Security is too complicated to be woven into every part of the development process.  Progress on functionality must be made, and this will at times require doing things that aren't in accordance with best practice.  This phase of development should be considered prototyping, however it is unlikely that an app will truly go through all necessary prototyping before starting work on the final product, and eventually some of the functionality constructed will be required for further prototyping etc.  Unfortunately, it's going to be very difficult to go back and fill all the holes you left."
+242,"May 24, 2023 3:06:07 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Somewhat challenging,Somewhat challenging,Somewhat challenging,Somewhat challenging,
+243,"May 24, 2023 3:12:08 am",https://developer.mozilla.org/,Somewhat challenging,Neutral,Very challenging,Easy,Easy,Very challenging,
+244,"May 24, 2023 3:31:39 am",https://developer.mozilla.org/,Easy,Somewhat challenging,Somewhat challenging,Somewhat challenging,Somewhat challenging,Very challenging,
+245,"May 24, 2023 3:59:01 am",https://developer.mozilla.org/,Easy,Neutral,Somewhat challenging,Very challenging,Easy,Neutral,
+246,"May 24, 2023 4:00:59 am",https://developer.mozilla.org/,Very challenging,Somewhat challenging,Easy,Somewhat challenging,Easy,Somewhat challenging,"First issue, while keeping underlying stacks up to date is important keeping the apps secure while relying on ever more libraries and frameworks are increasingly hard. Next issue, is not just about hacking but keeping intellectual property secure from corporate actors while hosting on cloud platforms. E.g. app code being scanned to build AI models while explicitly not asking permissions of owners.  "
+247,"May 24, 2023 4:01:05 am",abc123,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,
+248,"May 24, 2023 4:18:49 am",https://developer.mozilla.org/,,,,,,,
+249,"May 24, 2023 4:30:26 am",https://developer.mozilla.org/,Somewhat challenging,Very challenging,Somewhat challenging,Very challenging,Very challenging,Very challenging,
+250,"May 24, 2023 4:36:49 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Easy,Easy,Very easy,Very challenging,
+251,"May 24, 2023 5:00:09 am",https://developer.mozilla.org/,Somewhat challenging,Neutral,Somewhat challenging,Neutral,Very easy,Neutral,"Permissions, Authorization, Not properly doing a threat model."
+252,"May 24, 2023 5:16:01 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Somewhat challenging,Neutral,Somewhat challenging,Neutral,Technology constantly changing makes it more difficult to know where vulnerabilities may arise.
+253,"May 24, 2023 5:16:12 am",https://developer.mozilla.org/,Neutral,Somewhat challenging,Very challenging,Somewhat challenging,Neutral,Neutral,
+254,"May 24, 2023 5:26:51 am",https://developer.mozilla.org/,Neutral,Somewhat challenging,Neutral,Somewhat challenging,Somewhat challenging,Somewhat challenging,
+255,"May 24, 2023 6:00:18 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Neutral,Very challenging,Somewhat challenging,Somewhat challenging,
+256,"May 24, 2023 6:51:06 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Neutral,Neutral,Neutral,Very challenging,
+257,"May 24, 2023 6:56:29 am",https://developer.mozilla.org/,Very challenging,Somewhat challenging,Somewhat challenging,Neutral,Somewhat challenging,Very challenging,
+258,"May 24, 2023 7:23:27 am",https://developer.mozilla.org/,Somewhat challenging,Easy,Easy,Somewhat challenging,Easy,Very easy,content security policy is unpredictable
+259,"May 24, 2023 7:36:37 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Very challenging,Very challenging,Neutral,Very challenging,
+260,"May 24, 2023 7:43:07 am",https://developer.mozilla.org/,Very challenging,Very challenging,Very challenging,Very challenging,Easy,Easy,
+261,"May 24, 2023 8:16:09 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Somewhat challenging,Somewhat challenging,Very easy,Easy,
+262,"May 24, 2023 8:26:59 am",https://developer.mozilla.org/,Very challenging,Somewhat challenging,Neutral,Very challenging,Somewhat challenging,Very challenging,"Working with vendors, analytics suites, and other 3rd party services often introduces security related problems that are difficult to overcome."
+263,"May 24, 2023 8:29:50 am",https://developer.mozilla.org/,Very challenging,Somewhat challenging,Neutral,Somewhat challenging,Somewhat challenging,Somewhat challenging,
+264,"May 24, 2023 8:34:41 am",https://developer.mozilla.org/,Easy,Very challenging,Very challenging,Neutral,Neutral,Somewhat challenging,
+265,"May 24, 2023 9:38:19 am",https://developer.mozilla.org/,Very challenging,Somewhat challenging,Neutral,Neutral,Somewhat challenging,Very challenging,None.
+266,"May 24, 2023 9:39:43 am",https://developer.mozilla.org/,Very challenging,Somewhat challenging,Neutral,Neutral,Very challenging,Very challenging,None.
+267,"May 24, 2023 10:28:14 am",https://developer.mozilla.org/,Somewhat challenging,Easy,Very challenging,Very challenging,Neutral,Neutral,Securing user content. Especially from untrusted users.
+268,"May 24, 2023 10:54:47 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Easy,Neutral,Neutral,Somewhat challenging,Supply chain safety (can I trust the dependencies my project relies on?)
+269,"May 24, 2023 11:16:17 am",https://developer.mozilla.org/,Somewhat challenging,Very challenging,Somewhat challenging,Neutral,Neutral,Very challenging,
+270,"May 24, 2023 11:48:34 am",https://developer.mozilla.org/,Very challenging,Neutral,Very easy,Neutral,Easy,Somewhat challenging,trust
+271,"May 24, 2023 12:32:34 pm",https://developer.mozilla.org/,Very challenging,Very challenging,Easy,Somewhat challenging,Neutral,Somewhat challenging,
+272,"May 24, 2023 1:47:51 pm",https://developer.mozilla.org/,Very challenging,Very challenging,Very challenging,Somewhat challenging,Somewhat challenging,Very challenging,
+273,"May 24, 2023 1:47:57 pm",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Very challenging,Very challenging,Somewhat challenging,Very challenging,Coordination across the dev teams
+274,"May 24, 2023 1:59:14 pm",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Very easy,Very challenging,Somewhat challenging,Very challenging,
+275,"May 24, 2023 2:20:14 pm",https://developer.mozilla.org/,Very challenging,Very challenging,Somewhat challenging,Somewhat challenging,Very challenging,Very challenging,
+276,"May 24, 2023 3:39:54 pm",https://developer.mozilla.org/,Neutral,Neutral,Somewhat challenging,Somewhat challenging,Very challenging,Somewhat challenging,
+277,"May 24, 2023 4:23:54 pm",https://developer.mozilla.org/,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,Very challenging,[noise redacted – 5]
+278,"May 24, 2023 5:25:32 pm",https://developer.mozilla.org/,Neutral,Very challenging,Somewhat challenging,Neutral,Very easy,Very challenging,
+279,"May 24, 2023 5:28:16 pm",https://developer.mozilla.org/,Easy,Very easy,Very easy,Very easy,Very easy,Very easy,
+280,"May 24, 2023 5:44:14 pm",https://developer.mozilla.org/,Somewhat challenging,Neutral,Easy,Neutral,Very easy,Somewhat challenging,understanding emerging security best practices 
+281,"May 24, 2023 6:25:24 pm",https://developer.mozilla.org/,Very challenging,Very challenging,Somewhat challenging,Somewhat challenging,Somewhat challenging,Very challenging,"Threats are everywhere, NPM account can be stealed and Node.js typically run in privileged mode so my development machine is vulnerable as well. Then security of the server, e.g. data encryption and mitigation of brute- force password attacks is another chapter."
+282,"May 24, 2023 8:46:31 pm",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Neutral,Somewhat challenging,Somewhat challenging,Somewhat challenging,
+283,"May 24, 2023 10:08:18 pm",https://developer.mozilla.org/,Very challenging,Somewhat challenging,Very challenging,Very challenging,Very challenging,Very challenging,
+284,"May 24, 2023 10:51:12 pm",https://developer.mozilla.org/,Neutral,Somewhat challenging,Somewhat challenging,Very challenging,Somewhat challenging,Somewhat challenging,
+285,"May 24, 2023 11:03:18 pm",https://developer.mozilla.org/,Very easy,Very easy,,,,,
+286,"May 25, 2023 12:05:00 am",https://developer.mozilla.org/,Very challenging,Very challenging,Somewhat challenging,Very challenging,Very challenging,Somewhat challenging,
+287,"May 25, 2023 12:06:46 am",https://developer.mozilla.org/,Very challenging,Very challenging,Very challenging,Somewhat challenging,Very challenging,Very challenging,
+288,"May 25, 2023 12:21:33 am",https://developer.mozilla.org/,Easy,Easy,Somewhat challenging,Easy,Easy,Somewhat challenging,
+289,"May 25, 2023 12:38:23 am",https://developer.mozilla.org/,Very challenging,Somewhat challenging,Neutral,Neutral,Neutral,Somewhat challenging,
+290,"May 25, 2023 12:39:04 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Easy,Easy,Very easy,Somewhat challenging,
+291,"May 25, 2023 12:40:09 am",https://developer.mozilla.org/,Very challenging,Somewhat challenging,Somewhat challenging,Easy,Very challenging,Very challenging,
+292,"May 25, 2023 1:13:29 am",https://developer.mozilla.org/,Very challenging,Very challenging,Very challenging,Somewhat challenging,Somewhat challenging,Very challenging,
+293,"May 25, 2023 1:57:07 am",https://developer.mozilla.org/,Neutral,Neutral,Very challenging,Very easy,Very easy,Very challenging,"Prevention of DDoS attacks, and minimizing as much as possible fake queries to the server (mainly done by hackers/intruders)"
+294,"May 25, 2023 1:57:55 am",https://developer.mozilla.org/,Somewhat challenging,Neutral,Easy,Somewhat challenging,Neutral,Somewhat challenging,
+295,"May 25, 2023 4:35:16 am",https://developer.mozilla.org/,Very challenging,Somewhat challenging,Very challenging,Very challenging,Very challenging,Somewhat challenging,I dont know coding
+296,"May 25, 2023 4:40:45 am",https://developer.mozilla.org/,Somewhat challenging,Somewhat challenging,Neutral,Neutral,Very challenging,Somewhat challenging,
+297,"May 25, 2023 5:56:51 am",https://developer.mozilla.org/,Somewhat challenging,Easy,Very challenging,,Somewhat challenging,Very challenging,
