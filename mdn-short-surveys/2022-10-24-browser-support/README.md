@@ -41,5 +41,4 @@ Survey run between 2022-10-17 - 2022-10-24 to 5% of users site wide.
 ## Results
 
 - [Results in csv format](results.csv)
-
-
+- [Interpretation](interpretation.md)
