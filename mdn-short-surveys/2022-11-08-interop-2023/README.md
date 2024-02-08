@@ -40,6 +40,7 @@ Shown to 10% of users who viewed an HTML or CSS reference page.
 ### Results
 
 - [Results in csv format](results-htmlcss.csv)
+- [Interpretation](interpretation.md)
 
 ---
 
@@ -76,5 +77,4 @@ Shown to 5% of users who viewed a JS or API reference page.
 ### Results
 
 - [Results in csv format](results-jsapi.csv)
-
-
+- [Interpretation](interpretation.md)
