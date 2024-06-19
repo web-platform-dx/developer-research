@@ -15,14 +15,14 @@ In practice, the WebDX Community Group regularly discusses surveys targeted at w
 
 | Survey                                                                      | Who/Where               | Date     | Answers | Raw results                                                     | Discussion                                                                                                 |
 |-----------------------------------------------------------------------------|-------------------------|----------|---------|-----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| [State of HTML](https://stateofhtml.com/)                                   | Devographics            | Sep 2023 | 21889   | N/A                                                             | [Preliminary results](https://docs.google.com/presentation/d/1AVsalCAZVITkYZCLxux5D2LbwLukjjuH9cm-vZRYy-w) |
+| [State of HTML](https://stateofhtml.com/)                                   | Devographics            | Sep 2023 | 21889   | N/A ([GraphQL endpoint](https://graphiql.devographics.com/) provides aggregated results)                                                               | [Results](https://2023.stateofhtml.com/en-US) (also see [Preliminary results](https://docs.google.com/presentation/d/1AVsalCAZVITkYZCLxux5D2LbwLukjjuH9cm-vZRYy-w)) |
 | [State of CSS](https://stateofcss.com/)                                     | Devographics            | Jun 2023 | 9108    | N/A                                                             | [Results](https://2023.stateofcss.com/en-US/)                                                              |
 | [Web Security](mdn-short-surveys/2023-05-15-security-dx)                    | W3C workshop / MDN      | May 2023 | 297     | [CSV](mdn-short-surveys/results.csv)                            | [Interpretation](mdn-short-surveys/2023-05-15-security-dx/interpretation.md)                               |
 | [Web Components](mdn-short-surveys/2023-03-31-web-components)               | Web Components CG / MDN | Mar 2023 | 732     | [CSV](mdn-short-surveys/2023-03-31-web-components/results.csv)  | [Interpretation](mdn-short-surveys/2023-03-31-web-components/interpretation.md)                            |
 | [DevSat Survey](vendor-research/browser-support-matrix-survey.pdf)          | Google                  | Mar 2023 | 852     | N/A                                                             | [PDF slides](vendor-research/Web%20Dev%20Sat%20H1%202023.pdf)                                              |
 | [Browser Support Matrix](vendor-research/browser-support-matrix-survey.pdf) | Google                  | Nov 2022 | 233     | N/A                                                             | [PDF slides](vendor-research/browser-support-matrix-survey.pdf)                                            |
 | [Web Browsers](mdn-short-surveys/2022-10-24-browser-support)                | WebDX / MDN             | Oct 2022 | 964     | [CSV](mdn-short-surveys/2022-10-24-browser-support/results.csv) | [Interpretation](mdn-short-surveys/2022-10-24-browser-support/interpretation.md)                           |
-                                           |
+
 
 
 ## Milestones
