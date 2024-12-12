@@ -33,6 +33,8 @@ Survey run between 2024-11-19 - 2024-11-25 to 10% of users on Web API pages. See
 
 ## Results
 
+[Results in csv format](results.csv)
+
 ### Q1 - Existing features
 
 | Feature | Never heard of it | Heard of it but not used it | Used it and not satisfied | Used it and satisfied | Responses |
@@ -54,8 +56,6 @@ Survey run between 2024-11-19 - 2024-11-25 to 10% of users on Web API pages. See
 | contenteditable=plaintext-only | 22<br>(46.8%) | 13<br>(27.7%) | 4<br>(8.5%) | 8<br>(17%) | 47 |
 | Total responses |  |  |  |  | 53 |
 
-Raw CSV file: [responses-existing-features.csv](responses-existing-features.csv)
-
 ### Q2 - Proposed features
 
 | Feature | Never heard of it | Heard of it but not interested | Heard of it and interested | Responses |
@@ -65,8 +65,6 @@ Raw CSV file: [responses-existing-features.csv](responses-existing-features.csv)
 | clipboardchange event | 26<br>(57.8%) | 4<br>(8.9%) | 15<br>(33.3%) | 45 |
 | placeElement | 28<br>(62.2%) | 2<br>(4.4%) | 15<br>(33.3%) | 45 |
 | Total responses |  |  |  | 45 |
-
-Raw CSV file: [responses-new-features.csv](responses-new-features.csv)
 
 ### Q3 - Feedback about features that are difficult to implement (free-form)
 

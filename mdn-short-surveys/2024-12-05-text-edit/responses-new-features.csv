@@ -1,5 +1,0 @@
-Feature name,Never heard of it,Heard of it but not interested,Heard of it and interested 
-CSS.highlights.highlightsFromPoint: Get custom highlights from a point,40,3,2
-Support for range.getBoundingClientRect() in input and textareas,23,4,18
-clipboardchange event: Detect changes to clipboard contents,26,4,15
-placeElement: Allows HTML elements to be drawn on canvas,28,2,15
