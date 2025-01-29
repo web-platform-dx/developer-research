@@ -48,7 +48,7 @@ Survey run between 2024-08-05 - 2024-08-23 to 5% of MDN users.
 | Totals   |            |                    |                  |                  |              |                    | 244       |
 
 ### Q3 - In your experience, what is the biggest challenge building web applications? (free-form)
-The following challenges were extracted from the free-form responses:
+The following challenges were extracted from the [free-form responses](free-form-responses.md):
 | Category                                      | Subcategory                                           | Count |
 | :-------------------------------------------- | :---------------------------------------------------- | :---- |
 | **Development & Technical Challenges**        | **Cross-Browser Compatibility & Standards**           | 34    |
