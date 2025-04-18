@@ -36,9 +36,7 @@ The survey received **2220** responses.
 
 The following interpretations are proposed by [Patrick Brosset](https://github.com/captainbrosset), PM at Microsoft Edge.
 
-### Q1 - Proposal ranking
-
-#### Final ranking
+### Final ranking of proposals
 
 Here is the final ranking of the proposals:
 
@@ -60,7 +58,7 @@ Here is a chart comparing the scores of the proposals:
 
 ![Bar chart showing the final scores of the proposals, as seen in the table above](scores.png)
 
-#### Top ranked proposal per-respondent
+### Top ranked proposal per-respondent
 
 The following table and chart show how many times each proposal was selected as the top ranked proposal by respondents:
 
@@ -76,15 +74,11 @@ The following table and chart show how many times each proposal was selected as 
 
 ![The above table data as a pie chart, showing that Decorators was picked as the first proposal by 40% of the respondents.](top-ranked.png)
 
-### Q2 - Free-form text
+### Decorators
 
-The free-form reponses contain a lot of useful information, use cases, and nuance about what web developers want from the proposals.
+#### Reasons for picking Decorators
 
-The following sections attempt to categorize and summarize the responses, per proposal. Some responses contained more than one category, which is why the categories below add up to more than the total number of responses.
-
-#### Decorators
-
-**Free-form responses from respondents who ranked Decorators as their top choice**
+Here are the main categories that emerge from the free-form responses from people who ranked Decorators as their top choice:
 
 | Category | Number of comments |
 | --- | --- |
@@ -109,7 +103,9 @@ The following sections attempt to categorize and summarize the responses, per pr
 | Use case: Testing | 1 |
 | Use case: Clean-up after function execution (close files, database connections, etc.) | 1 |
 
-**Free-form responses which mentioned Decorators, irrespective of the respondent's top choice**
+#### Overall sentiment about Decorators
+
+Here are the main sentiments and reasons for these sentiments which emerged from free-form responses that mention Decorators, irrespective of the respondent's top choice:
 
 
 
