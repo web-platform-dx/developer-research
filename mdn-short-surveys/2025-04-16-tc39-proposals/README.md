@@ -109,12 +109,26 @@ Here are the main sentiments and reasons for these sentiments which emerged from
 
 
 
-#### ESM phase imports
-#### Deferred module evaluation
-#### JSON.parse source text access
-#### Source phase imports
-#### Joint iteration
-#### Iterator sequence
+### ESM phase imports
 
+_TODO_
+
+### Deferred module evaluation
+
+_TODO_
+
+### JSON.parse source text access
+
+_TODO_
+
+### Source phase imports
+
+_TODO_
+
+### Joint iteration
+
+_TODO_
+
+### Iterator sequence
 
 _TODO_
