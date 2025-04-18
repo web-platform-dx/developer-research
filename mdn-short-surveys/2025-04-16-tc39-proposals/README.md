@@ -34,7 +34,11 @@ The survey received **2220** responses.
 
 ## Interpretation
 
+The following interpretations are proposed by [Patrick Brosset](https://github.com/captainbrosset), PM at Microsoft Edge.
+
 ### Q1 - Proposal ranking
+
+#### Final ranking
 
 Here is the final ranking of the proposals:
 
@@ -56,7 +60,7 @@ Here is a chart comparing the scores of the proposals:
 
 ![Bar chart showing the final scores of the proposals, as seen in the table above](scores.png)
 
-#### Per-respondent top ranked proposals
+#### Top ranked proposal per-respondent
 
 The following table and chart show how many times each proposal was selected as the top ranked proposal by respondents:
 
@@ -75,5 +79,46 @@ The following table and chart show how many times each proposal was selected as 
 ### Q2 - Free-form text
 
 The free-form reponses contain a lot of useful information, use cases, and nuance about what web developers want from the proposals.
+
+The following sections attempt to categorize and summarize the responses, per proposal. Some responses contained more than one category, which is why the categories below add up to more than the total number of responses.
+
+#### Decorators
+
+**Free-form responses from respondents who ranked Decorators as their top choice**
+
+| Category | Number of comments |
+| --- | --- |
+| Cleaner, more ergonomic, shorter code (less repetition, better abstraction, more expressive, easier to read, more maintainable, less boilerplate) | 86 |
+| Generally useful (either using it already, or would use it but have been waiting for it for years) | 65 |
+| Parity with other languages and frameworks (Java, C#, PHP, Rust, Python, Dart, Nest.js, Django) | 32 |
+| Parity with Typescript and/or Angular (waiting for the non-standard TS implementation to be standardized) | 24 |
+| Useful for web components, custom elements, parity with Lit | 15 |
+| Better performance, less dependencies, no need for a build step if implemented natively | 11 |
+| Use case: Logging | 11 |
+| Useful for libraries | 7 |
+| Useful but not essential | 6 |
+| Use case: Dependency injection | 6 |
+| Use case: Memoization | 6 |
+| Use case: Debugging | 4 |
+| Use case: Input and data validation | 4 |
+| Use case: ORM | 3 |
+| Use case: Authentication, authorization, and other middlewares | 2 |
+| Use case: Measure function execution time | 2 |
+| Use case: Serialization | 2 |
+| Use case: Function result caching | 1 |
+| Use case: Testing | 1 |
+| Use case: Clean-up after function execution (close files, database connections, etc.) | 1 |
+
+**Free-form responses which mentioned Decorators, irrespective of the respondent's top choice**
+
+
+
+#### ESM phase imports
+#### Deferred module evaluation
+#### JSON.parse source text access
+#### Source phase imports
+#### Joint iteration
+#### Iterator sequence
+
 
 _TODO_
