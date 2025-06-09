@@ -74,6 +74,8 @@ The following table and chart show how many times each proposal was selected as 
 
 ![The above table data as a pie chart, showing that Decorators was picked as the first proposal by 40% of the respondents.](top-ranked.png)
 
+Decorators was the most popular choice, with 40% of respondents ranking it as their top choice, far ahead of the next most popular choice, JSON.parse source text access, which was ranked first by 12.6% of respondents.
+
 ### Decorators
 
 #### Reasons for picking Decorators
@@ -103,32 +105,165 @@ Here are the main categories that emerge from the free-form responses from peopl
 | Use case: Testing | 1 |
 | Use case: Clean-up after function execution (close files, database connections, etc.) | 1 |
 
+The vast majority of people who picked Decorators as their top choice did so because they find it useful for writing cleaner, more ergonomic, and shorter code. Many also mentioned that they have been waiting for the feature for a long time in JavaScript, and that have been using it in other languages already.
+
 #### Overall sentiment about Decorators
 
-Here are the main sentiments and reasons for these sentiments which emerged from free-form responses that mention Decorators, irrespective of the respondent's top choice:
+Here are the sentiments which emerge from free-form responses that mention Decorators, irrespective of the respondent's top choice:
 
-_TODO_
+| Sentiment | Number of comments |
+| --- | --- |
+| Positive | 145 |
+| Neutral | 71 |
+| Negative | 38 |
 
 ### ESM phase imports
 
-_TODO_
+#### Reasons for picking ESM phase imports
+
+Here are the main categories that emerge from the free-form responses from people who ranked ESM phase imports as their top choice:
+
+| Category | Number of comments |
+| --- | --- |
+| Developer ergonomics | 8 |
+| Helping with build tools and bundles | 7 |
+| Better performance | 6 |
+| Standardization of inconsistent implementations | 2 |
+
+The main reason people picked ESM phase imports as their top choice is that they find it improves developer ergonomics, helps avoid bundler issues, and improves performance.
+
+#### Overall sentiment about ESM phase imports
+
+Here are the sentiments which emerge from free-form responses that mention ESM phase imports, irrespective of the respondent's top choice:
+
+| Sentiment | Number of comments |
+| --- | --- |
+| Positive | 8 |
+| Neutral | 5 |
+| Negative | 1 |
 
 ### Deferred module evaluation
 
-_TODO_
+#### Reasons for picking Deferred module evaluation
+
+Here are the main categories that emerge from the free-form responses from people who ranked Deferred module evaluation as their top choice:
+
+| Category | Number of comments |
+| --- | --- |
+| Better performance | 47 |
+| Better architecture | 4 |
+| Simpler architecture and code | 3 |
+| Avoid circular dependencies | 1 |
+
+The main reason people picked Deferred module evaluation as their top choice is that it improves performance.
+
+#### Overall sentiment about Deferred module evaluation
+
+Here are the sentiments which emerge from free-form responses that mention Deferred module evaluation, irrespective of the respondent's top choice:
+
+| Sentiment | Number of comments |
+| --- | --- |
+| Positive | 15 |
+| Neutral | 14 |
+| Negative | 4 |
 
 ### JSON.parse source text access
 
-_TODO_
+#### Reasons for picking JSON.parse source text access
+
+Here are the main categories that emerge from the free-form responses from people who ranked JSON.parse source text access as their top choice:
+
+| Category | Number of comments |
+| --- | --- |
+| To transport certain data types (floats, dates, bigints) from the server to the client with simpler code nicer | 30 |
+| To remove the need for complex custom code or libraries | 12 |
+| To more easily debug parsing issues | 6 |
+| To make libraries more robust | 2 |
+| For faster and more secure JSON handling code | 2 |
+
+The main reason people picked JSON.parse source text access as their top choice is to unlock important data type transport from the server, and simplifying their code and making it more robust at the same time.
+
+#### Overall sentiment about JSON.parse source text access
+
+Here are the sentiments which emerge from free-form responses that mention JSON.parse source text access, irrespective of the respondent's top choice:
+
+| Sentiment | Number of comments |
+| --- | --- |
+| Positive | 23 |
+| Neutral | 5 |
+| Negative | 2 |
 
 ### Source phase imports
 
-_TODO_
+#### Reasons for picking Source phase imports
+
+Here are the main categories that emerge from the free-form responses from people who ranked Source phase imports as their top choice:
+
+| Category | Number of comments |
+| --- | --- |
+| To simplify the integration/import of wasm and workers, and make it easier to work with bundlers (or remove the need for them) | 25 |
+| Because I depend on wasm in my work and want it to be as nice to work with as possible | 17 |
+| To improve performance | 2 |
+
+The main reason people picked Source phase imports as their top choice is because of how it makes working with WASM easier and more egonimic.
+
+#### Overall sentiment about Source phase imports
+
+Here are the sentiments which emerge from free-form responses that mention Source phase imports, irrespective of the respondent's top choice:
+
+| Sentiment | Number of comments |
+| --- | --- |
+| Positive | 14 |
+| Neutral | 5 |
+| Negative | 2 |
 
 ### Joint iteration
 
-_TODO_
+#### Reasons for picking Joint iteration
+
+Here are the main categories that emerge from the free-form responses from people who ranked Joint iteration as their top choice:
+
+| Category | Number of comments |
+| --- | --- |
+| Reduces the need for custom code, workarounds, or libraries, leading to cleaner code | 37 |
+| Unlocks unique use cases (working with data, collections, sets, maps, arrays, streams, etc) | 14 |
+| Provides parity with a known paradigm/other languages | 12 |
+| Improves performance | 6 |
+| Is easier for new developers | 1 |
+
+The main reason people picked Joint iteration as their top choice is that it greatly reduces the need for custom code or libraries for handling unique use cases that, otherwise, require more complex code.
+
+#### Overall sentiment about Joint iteration
+
+Here are the sentiments which emerge from free-form responses that mention Joint iteration, irrespective of the respondent's top choice:
+
+| Sentiment | Number of comments |
+| --- | --- |
+| Positive | 30 |
+| Neutral | 2 |
+| Negative | 0 |
 
 ### Iterator sequence
 
-_TODO_
+#### Reasons for picking Iterator sequence
+
+Here are the main categories that emerge from the free-form responses from people who ranked Iterator sequence as their top choice:
+
+| Category | Number of comments |
+| --- | --- |
+| More convenient, simple, efficient, and flexible code | 18 |
+| Removes the need for custom or library code | 7 |
+| Provides parity with other languages | 7 |
+| Better performance | 6 |
+
+The people whjo picked Iterator sequence as their top choice did so mostly for convenience reasons.
+
+#### Overall sentiment about Iterator sequence
+
+Here are the sentiments which emerge from free-form responses that mention Iterator sequence, irrespective of the respondent's top choice:
+
+| Sentiment | Number of comments |
+| --- | --- |
+| Positive | 9 |
+| Neutral | 1 |
+| Negative | 0 |
