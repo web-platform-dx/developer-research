@@ -34,7 +34,7 @@ The survey received **2220** responses.
 
 ## Interpretation
 
-The following interpretations are proposed by [Patrick Brosset](https://github.com/captainbrosset), PM at Microsoft Edge.
+The following interpretations are proposed by [Patrick Brosset](https://github.com/captainbrosset), product manager at Microsoft Edge.
 
 ### Final ranking of proposals
 
@@ -105,7 +105,7 @@ Here are the main categories that emerge from the free-form responses from peopl
 | Use case: Testing | 1 |
 | Use case: Clean-up after function execution (close files, database connections, etc.) | 1 |
 
-The vast majority of people who picked Decorators as their top choice did so because they find it useful for writing cleaner, more ergonomic, and shorter code. Many also mentioned that they have been waiting for the feature for a long time in JavaScript, and that have been using it in other languages already.
+The vast majority of people who picked Decorators as their top choice did so because they find it useful for writing cleaner, more ergonomic, and shorter code. Many also mentioned that they have been waiting for the feature for a long time in JavaScript, and that they have been using it in other languages already.
 
 #### Overall sentiment about Decorators
 
@@ -205,7 +205,7 @@ Here are the main categories that emerge from the free-form responses from peopl
 | Because I depend on wasm in my work and want it to be as nice to work with as possible | 17 |
 | To improve performance | 2 |
 
-The main reason people picked Source phase imports as their top choice is because of how it makes working with WASM easier and more egonimic.
+The main reason people picked Source phase imports as their top choice is because of how it makes working with WASM easier and more ergonomic.
 
 #### Overall sentiment about Source phase imports
 
