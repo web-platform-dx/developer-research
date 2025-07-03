@@ -256,7 +256,7 @@ Here are the main categories that emerge from the free-form responses from peopl
 | Provides parity with other languages | 7 |
 | Better performance | 6 |
 
-The people whjo picked Iterator sequence as their top choice did so mostly for convenience reasons.
+The people who picked Iterator sequence as their top choice did so mostly for convenience reasons.
 
 #### Overall sentiment about Iterator sequence
 
