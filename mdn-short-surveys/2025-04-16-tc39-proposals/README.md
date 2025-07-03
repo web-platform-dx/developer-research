@@ -78,8 +78,6 @@ Decorators was the most popular choice, with 40% of respondents ranking it as th
 
 ### Decorators
 
-#### Reasons for picking Decorators
-
 Here are the main categories that emerge from the free-form responses from people who ranked Decorators as their top choice:
 
 | Category | Number of comments |
@@ -107,19 +105,7 @@ Here are the main categories that emerge from the free-form responses from peopl
 
 The vast majority of people who picked Decorators as their top choice did so because they find it useful for writing cleaner, more ergonomic, and shorter code. Many also mentioned that they have been waiting for the feature for a long time in JavaScript, and that they have been using it in other languages already.
 
-#### Overall sentiment about Decorators
-
-Here are the sentiments which emerge from free-form responses that mention Decorators, irrespective of the respondent's top choice:
-
-| Sentiment | Number of comments |
-| --- | --- |
-| Positive | 145 |
-| Neutral | 71 |
-| Negative | 38 |
-
 ### ESM phase imports
-
-#### Reasons for picking ESM phase imports
 
 Here are the main categories that emerge from the free-form responses from people who ranked ESM phase imports as their top choice:
 
@@ -132,19 +118,7 @@ Here are the main categories that emerge from the free-form responses from peopl
 
 The main reason people picked ESM phase imports as their top choice is that they find it improves developer ergonomics, helps avoid bundler issues, and improves performance.
 
-#### Overall sentiment about ESM phase imports
-
-Here are the sentiments which emerge from free-form responses that mention ESM phase imports, irrespective of the respondent's top choice:
-
-| Sentiment | Number of comments |
-| --- | --- |
-| Positive | 8 |
-| Neutral | 5 |
-| Negative | 1 |
-
 ### Deferred module evaluation
-
-#### Reasons for picking Deferred module evaluation
 
 Here are the main categories that emerge from the free-form responses from people who ranked Deferred module evaluation as their top choice:
 
@@ -157,19 +131,7 @@ Here are the main categories that emerge from the free-form responses from peopl
 
 The main reason people picked Deferred module evaluation as their top choice is that it improves performance.
 
-#### Overall sentiment about Deferred module evaluation
-
-Here are the sentiments which emerge from free-form responses that mention Deferred module evaluation, irrespective of the respondent's top choice:
-
-| Sentiment | Number of comments |
-| --- | --- |
-| Positive | 15 |
-| Neutral | 14 |
-| Negative | 4 |
-
 ### JSON.parse source text access
-
-#### Reasons for picking JSON.parse source text access
 
 Here are the main categories that emerge from the free-form responses from people who ranked JSON.parse source text access as their top choice:
 
@@ -183,19 +145,7 @@ Here are the main categories that emerge from the free-form responses from peopl
 
 The main reason people picked JSON.parse source text access as their top choice is to unlock important data type transport from the server, and simplifying their code and making it more robust at the same time.
 
-#### Overall sentiment about JSON.parse source text access
-
-Here are the sentiments which emerge from free-form responses that mention JSON.parse source text access, irrespective of the respondent's top choice:
-
-| Sentiment | Number of comments |
-| --- | --- |
-| Positive | 23 |
-| Neutral | 5 |
-| Negative | 2 |
-
 ### Source phase imports
-
-#### Reasons for picking Source phase imports
 
 Here are the main categories that emerge from the free-form responses from people who ranked Source phase imports as their top choice:
 
@@ -207,19 +157,7 @@ Here are the main categories that emerge from the free-form responses from peopl
 
 The main reason people picked Source phase imports as their top choice is because of how it makes working with WASM easier and more ergonomic.
 
-#### Overall sentiment about Source phase imports
-
-Here are the sentiments which emerge from free-form responses that mention Source phase imports, irrespective of the respondent's top choice:
-
-| Sentiment | Number of comments |
-| --- | --- |
-| Positive | 14 |
-| Neutral | 5 |
-| Negative | 2 |
-
 ### Joint iteration
-
-#### Reasons for picking Joint iteration
 
 Here are the main categories that emerge from the free-form responses from people who ranked Joint iteration as their top choice:
 
@@ -233,19 +171,7 @@ Here are the main categories that emerge from the free-form responses from peopl
 
 The main reason people picked Joint iteration as their top choice is that it greatly reduces the need for custom code or libraries for handling unique use cases that, otherwise, require more complex code.
 
-#### Overall sentiment about Joint iteration
-
-Here are the sentiments which emerge from free-form responses that mention Joint iteration, irrespective of the respondent's top choice:
-
-| Sentiment | Number of comments |
-| --- | --- |
-| Positive | 30 |
-| Neutral | 2 |
-| Negative | 0 |
-
 ### Iterator sequence
-
-#### Reasons for picking Iterator sequence
 
 Here are the main categories that emerge from the free-form responses from people who ranked Iterator sequence as their top choice:
 
@@ -258,12 +184,16 @@ Here are the main categories that emerge from the free-form responses from peopl
 
 The people who picked Iterator sequence as their top choice did so mostly for convenience reasons.
 
-#### Overall sentiment about Iterator sequence
+## Overall learnings
 
-Here are the sentiments which emerge from free-form responses that mention Iterator sequence, irrespective of the respondent's top choice:
+The main learning is that, of the seven TC39 proposals we tested, a large portion (40%) of the respondents selected Decorators as their top choice, far ahead of the other proposals, and did so because Decorators allow to write cleaner, shorter code.
 
-| Sentiment | Number of comments |
-| --- | --- |
-| Positive | 9 |
-| Neutral | 1 |
-| Negative | 0 |
+A second learning is related to the motivations that respondents mentioned for choosing proposals, which mainly fall in these three categories:
+
+* Performance improvements.
+* More ergonomic code.
+* Easier time working with, or altogether removing the need for, libraries and build tools.
+
+Today's JavaScript ecosystem is filled with countless libraries, tools, and frameworks. While these can often solve real problems and fill real gaps for developers, they can also come with the risk of increased complexity, and heavier or slower front-end codebases. These are important challenges that respondents face, and which motivated their choices.
+
+The responses we received not only showed that Decorators is a syntax feature which developers commonly want, but they also showed that developers are eager for meaningful evolutions of the JavaScript language, to help them overcome the challenges they're facing.
