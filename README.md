@@ -16,6 +16,7 @@ In practice, the WebDX Community Group regularly discusses surveys targeted at w
 
 | Survey | Who/Where | Date | Answers | Raw results | Discussion |
 |---|---|---|---|---|---|
+| [State of HTML 2025](https://stateofhtml.com/) | Devographics | Aug 2025 | @@ | [Results](https://2025.stateofhtml.com/en-US/) |
 | [TC39 proposals](mdn-short-surveys/2025-04-16-tc39-proposals) | Microsoft Edge / MDN | Apr 2025 | 2220 | [CSV](mdn-short-surveys/2025-04-16-tc39-proposals/results.csv) | [Interpretation](mdn-short-surveys/2025-04-16-tc39-proposals/README.md) |
 | [Text & Editing features](mdn-short-surveys/2024-12-05-text-edit) | Microsoft Edge / MDN | Dec 2024 | 62 | [CSV](mdn-short-surveys/2024-12-05-text-edit/results.csv) | [Interpretation](mdn-short-surveys/2024-12-05-text-edit/README.md) |
 | [State of HTML 2024](https://stateofhtml.com/) | Devographics| Nov 2024 | 5402 | N/A ([GraphQL endpoint](https://graphiql.devographics.com/) provides aggregated results) | [Results](https://2024.stateofhtml.com/en-US) |
