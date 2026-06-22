@@ -7,12 +7,13 @@ Survey run between 2026-04-30 and 2026-05-10 to 207 MDN users.
 ## Question
 
 An HTML element is labeled as "Baseline widely available." Mark all that apply to this feature
-a. It works in all major browsers latest releases
-b. It works with assistive technologies (e.g. screen-readers, voice control, keyboard control, etc)
-c. It works in Web Views
-d. It's available in major browsers' releases over a year ago.
-e. None of the above
-f. I don't read Baseline support data
+
+1. It works in all major browsers latest releases
+2. It works with assistive technologies (e.g. screen-readers, voice control, keyboard control, etc)
+3. It works in Web Views
+4. It's available in major browsers' releases over a year ago.
+5. None of the above
+6. I don't read Baseline support data
 
 ## Interpretation
 
