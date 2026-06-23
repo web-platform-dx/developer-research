@@ -13,8 +13,6 @@
 * **Lottie and Rive are Approaching SVG Dominance:** While SVG is the most used animation format at 60.9%, third-party complex animation libraries are highly prevalent. Both Lottie and Rive are used by 52.2% of respondents.
 * **Strong Demand for Native Lottie Support:** Developers are incredibly eager to shed the performance weight of third-party JavaScript players. One user pointed out that "The Lottie library is a sizable overhead". If all browsers supported Lottie natively, a massive 64% of developers would immediately drop the JS player — and impressively, 61% would still stop shipping the player for a specific browser if even just one browser supported it natively.
 
-> We had previously thought we’d need full native lottie support across browsers for developers to adopt native support and stop shipping the JS player, but the % of developers who’d use native support with just one browser vs. all is effectively identical 
-
 ---
 
 ## Specific Areas of Suggested Focus
